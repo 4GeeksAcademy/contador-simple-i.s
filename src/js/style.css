@@ -1,0 +1,32 @@
+body {
+    background: black;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.big-counter {
+    display: flex;
+    align-items: center;
+    background: black;
+    color: white;
+    font-size: 80px;
+    padding: 20px;
+    gap: 10px;
+}
+
+.clock {
+    background: #222;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.digit {
+    background: #222;
+    padding: 20px 30px;
+    border-radius: 10px;
+    text-align: center;
+}

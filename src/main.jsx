@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import SecondsCounter from "./components/SecondsCounter.jsx";
-import "./style.css"; // Asegúrate de tenerlo
+import "./style.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
